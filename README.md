@@ -1,5 +1,3 @@
-<!-- Положи этот файл как README.md в репозиторий с именем codemachine52 (тем же, что и твой ник). Он покажется на главной странице профиля. -->
-
 <h1 align="center">Привет, я Владислав 👋</h1>
 
 <p align="center">
@@ -47,5 +45,4 @@
 ## 📫 Связаться
 
 - ✉️ [82andrik887@mail.ru](mailto:82andrik887@mail.ru)
-- <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/6a9a50b7-f66c-4943-b159-75324af8b425" /> @vag_0907
-
+- <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/6a9a50b7-f66c-4943-b159-75324af8b425" /> [@vag_0907](t.me/vag_0907)
